@@ -1,0 +1,18 @@
+table {
+    display:flex;
+    flex-wrap:wrap;
+    /* width:90%; */
+    margin:0 auto;
+  }
+  
+  tr {
+    flex:1 0 300px;
+    display:inline;
+  }
+  
+  td {
+    margin-bottom: 50px;
+    display:inline-block;
+    width:20em;
+    height:20em;
+  }
